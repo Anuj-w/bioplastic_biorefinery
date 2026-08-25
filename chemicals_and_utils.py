@@ -1,3 +1,4 @@
+import pandas as pd
 import biosteam as bst
 import thermosteam as tmo
 from thermosteam import Chemical, Chemicals
